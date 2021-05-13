@@ -2,3 +2,4 @@ This is simple job-seeker laravel application (not completed) that let the job s
  The main features:
  - Custom login page (though the laravel ship with its native login page, but for sake of learning, i create one)
  - Custom register page
+ - Bootstrap admin lte 2 used for layout.
